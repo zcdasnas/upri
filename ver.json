@@ -5,5 +5,8 @@
   "ios_versionName": "4.6.26",
   "apkUrl": "https://play.google.com/",
   "changelog": "Minor Changes",
-  "update_pop": "1"
+  "update_pop": "1",
+  "is_notice": "1",
+  "notice_title": "নোটিশ",
+  "notice_message": "দয়া করে পুনরায় চেষ্টা করুন"
 }
